@@ -10,7 +10,7 @@ const Footer = () => {
         <hr/>
         <div className='footer'>
         <div className='social-links'>
-        <img src={github} alt=''/>
+        <img href='https://github.com/singhkrishna01' src={github} alt=''/>
         <img src={intra} alt=''/>
         <img src={linkin} alt=''/>
     </div>
