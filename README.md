@@ -12,9 +12,9 @@ A sleek and responsive **frontend web page** built using **React.js** to provide
 
 ## 🖼️ Screenshots
 ### Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](src/assets/home.png)
 ### Workout Plans
-![Workout Plans](screenshots/workout-plans.png)
+![Workout Plans](src/assets/price.png)
 
 ## 📂 Project Structure
 ```
